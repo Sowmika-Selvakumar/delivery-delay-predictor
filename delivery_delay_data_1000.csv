@@ -1,0 +1,1001 @@
+Order ID,Vendor,Distance (km),Shipping Mode,Weather,Delay (Yes/No)
+ORD1000,Vendor B,214,Express,Clear,No
+ORD1001,Vendor A,245,Express,Foggy,No
+ORD1002,Vendor B,497,Express,Stormy,Yes
+ORD1003,Vendor A,101,Express,Clear,No
+ORD1004,Vendor C,380,Standard,Stormy,Yes
+ORD1005,Vendor A,144,Express,Rainy,Yes
+ORD1006,Vendor A,51,Same Day,Clear,No
+ORD1007,Vendor C,494,Express,Stormy,Yes
+ORD1008,Vendor A,353,Same Day,Foggy,No
+ORD1009,Vendor A,489,Express,Rainy,Yes
+ORD1010,Vendor B,218,Same Day,Clear,No
+ORD1011,Vendor C,144,Standard,Clear,No
+ORD1012,Vendor C,169,Standard,Clear,No
+ORD1013,Vendor B,173,Standard,Stormy,Yes
+ORD1014,Vendor A,21,Standard,Clear,Yes
+ORD1015,Vendor B,120,Same Day,Foggy,No
+ORD1016,Vendor C,447,Same Day,Clear,No
+ORD1017,Vendor C,249,Express,Foggy,No
+ORD1018,Vendor C,96,Standard,Foggy,No
+ORD1019,Vendor A,230,Express,Stormy,No
+ORD1020,Vendor A,107,Same Day,Clear,No
+ORD1021,Vendor A,35,Express,Stormy,Yes
+ORD1022,Vendor B,22,Same Day,Rainy,No
+ORD1023,Vendor C,148,Express,Rainy,No
+ORD1024,Vendor C,241,Standard,Foggy,No
+ORD1025,Vendor A,457,Express,Foggy,Yes
+ORD1026,Vendor C,234,Standard,Foggy,No
+ORD1027,Vendor C,86,Standard,Rainy,Yes
+ORD1028,Vendor B,384,Same Day,Rainy,Yes
+ORD1029,Vendor A,140,Standard,Stormy,Yes
+ORD1030,Vendor A,193,Same Day,Rainy,No
+ORD1031,Vendor C,409,Standard,Clear,Yes
+ORD1032,Vendor C,12,Standard,Stormy,No
+ORD1033,Vendor C,20,Standard,Stormy,Yes
+ORD1034,Vendor C,259,Same Day,Stormy,Yes
+ORD1035,Vendor B,359,Same Day,Rainy,Yes
+ORD1036,Vendor B,103,Same Day,Stormy,No
+ORD1037,Vendor C,398,Same Day,Clear,Yes
+ORD1038,Vendor A,353,Express,Foggy,No
+ORD1039,Vendor A,197,Same Day,Rainy,No
+ORD1040,Vendor B,395,Express,Stormy,No
+ORD1041,Vendor B,417,Express,Clear,No
+ORD1042,Vendor B,198,Same Day,Clear,Yes
+ORD1043,Vendor A,349,Same Day,Rainy,No
+ORD1044,Vendor B,143,Standard,Rainy,Yes
+ORD1045,Vendor C,62,Standard,Rainy,No
+ORD1046,Vendor C,277,Same Day,Foggy,No
+ORD1047,Vendor B,394,Standard,Foggy,Yes
+ORD1048,Vendor B,331,Express,Clear,No
+ORD1049,Vendor C,422,Express,Stormy,No
+ORD1050,Vendor C,82,Standard,Rainy,No
+ORD1051,Vendor A,356,Same Day,Stormy,Yes
+ORD1052,Vendor B,450,Express,Foggy,No
+ORD1053,Vendor B,187,Express,Stormy,No
+ORD1054,Vendor C,117,Same Day,Foggy,Yes
+ORD1055,Vendor B,257,Same Day,Rainy,No
+ORD1056,Vendor C,447,Same Day,Rainy,No
+ORD1057,Vendor B,160,Express,Stormy,Yes
+ORD1058,Vendor B,394,Express,Rainy,Yes
+ORD1059,Vendor C,488,Express,Clear,Yes
+ORD1060,Vendor A,172,Standard,Rainy,No
+ORD1061,Vendor C,368,Standard,Stormy,Yes
+ORD1062,Vendor C,73,Standard,Rainy,Yes
+ORD1063,Vendor A,466,Express,Foggy,No
+ORD1064,Vendor C,179,Same Day,Stormy,No
+ORD1065,Vendor A,74,Express,Stormy,No
+ORD1066,Vendor B,123,Same Day,Clear,No
+ORD1067,Vendor C,215,Express,Rainy,Yes
+ORD1068,Vendor C,287,Same Day,Rainy,No
+ORD1069,Vendor B,268,Express,Rainy,No
+ORD1070,Vendor B,413,Express,Stormy,No
+ORD1071,Vendor A,266,Express,Foggy,No
+ORD1072,Vendor A,287,Same Day,Foggy,No
+ORD1073,Vendor A,274,Express,Clear,No
+ORD1074,Vendor B,474,Same Day,Clear,No
+ORD1075,Vendor A,180,Express,Clear,Yes
+ORD1076,Vendor C,482,Express,Rainy,Yes
+ORD1077,Vendor B,59,Standard,Rainy,Yes
+ORD1078,Vendor C,269,Standard,Rainy,No
+ORD1079,Vendor B,377,Same Day,Clear,No
+ORD1080,Vendor C,156,Express,Clear,No
+ORD1081,Vendor C,319,Standard,Rainy,Yes
+ORD1082,Vendor A,86,Standard,Clear,No
+ORD1083,Vendor B,135,Express,Rainy,No
+ORD1084,Vendor B,421,Same Day,Clear,Yes
+ORD1085,Vendor C,247,Same Day,Foggy,Yes
+ORD1086,Vendor B,89,Same Day,Clear,No
+ORD1087,Vendor B,391,Same Day,Rainy,No
+ORD1088,Vendor C,381,Same Day,Foggy,No
+ORD1089,Vendor A,235,Same Day,Stormy,No
+ORD1090,Vendor A,13,Express,Foggy,No
+ORD1091,Vendor A,86,Standard,Clear,No
+ORD1092,Vendor C,196,Standard,Stormy,Yes
+ORD1093,Vendor A,103,Standard,Foggy,Yes
+ORD1094,Vendor B,328,Same Day,Rainy,Yes
+ORD1095,Vendor B,42,Express,Rainy,No
+ORD1096,Vendor B,494,Standard,Foggy,Yes
+ORD1097,Vendor B,435,Express,Clear,No
+ORD1098,Vendor B,128,Express,Clear,No
+ORD1099,Vendor C,392,Same Day,Stormy,Yes
+ORD1100,Vendor B,282,Same Day,Stormy,No
+ORD1101,Vendor B,39,Same Day,Stormy,No
+ORD1102,Vendor B,285,Same Day,Rainy,No
+ORD1103,Vendor B,122,Same Day,Clear,No
+ORD1104,Vendor C,159,Standard,Clear,No
+ORD1105,Vendor C,340,Express,Rainy,Yes
+ORD1106,Vendor A,408,Express,Foggy,Yes
+ORD1107,Vendor B,63,Express,Clear,No
+ORD1108,Vendor A,161,Standard,Rainy,Yes
+ORD1109,Vendor A,179,Same Day,Stormy,No
+ORD1110,Vendor C,490,Express,Stormy,No
+ORD1111,Vendor B,278,Same Day,Rainy,No
+ORD1112,Vendor B,31,Express,Rainy,No
+ORD1113,Vendor B,29,Express,Foggy,No
+ORD1114,Vendor B,172,Standard,Clear,No
+ORD1115,Vendor A,31,Same Day,Rainy,No
+ORD1116,Vendor B,145,Standard,Clear,No
+ORD1117,Vendor B,149,Same Day,Stormy,No
+ORD1118,Vendor B,353,Same Day,Stormy,No
+ORD1119,Vendor A,443,Standard,Clear,Yes
+ORD1120,Vendor B,304,Same Day,Rainy,No
+ORD1121,Vendor B,267,Same Day,Clear,No
+ORD1122,Vendor C,113,Standard,Rainy,No
+ORD1123,Vendor A,471,Same Day,Rainy,Yes
+ORD1124,Vendor A,267,Same Day,Foggy,No
+ORD1125,Vendor B,236,Same Day,Rainy,No
+ORD1126,Vendor C,477,Express,Stormy,Yes
+ORD1127,Vendor B,11,Standard,Rainy,No
+ORD1128,Vendor C,279,Standard,Rainy,No
+ORD1129,Vendor C,329,Same Day,Clear,No
+ORD1130,Vendor C,64,Express,Stormy,Yes
+ORD1131,Vendor A,304,Same Day,Rainy,No
+ORD1132,Vendor C,359,Standard,Foggy,Yes
+ORD1133,Vendor C,436,Same Day,Stormy,Yes
+ORD1134,Vendor C,208,Express,Stormy,Yes
+ORD1135,Vendor C,462,Same Day,Stormy,Yes
+ORD1136,Vendor C,394,Standard,Rainy,Yes
+ORD1137,Vendor B,182,Same Day,Foggy,Yes
+ORD1138,Vendor A,299,Express,Stormy,No
+ORD1139,Vendor C,492,Same Day,Clear,No
+ORD1140,Vendor C,72,Express,Foggy,Yes
+ORD1141,Vendor A,465,Standard,Rainy,Yes
+ORD1142,Vendor A,315,Standard,Foggy,Yes
+ORD1143,Vendor A,321,Standard,Foggy,Yes
+ORD1144,Vendor C,211,Same Day,Rainy,No
+ORD1145,Vendor C,282,Standard,Clear,No
+ORD1146,Vendor A,201,Same Day,Stormy,No
+ORD1147,Vendor C,23,Same Day,Foggy,No
+ORD1148,Vendor A,293,Same Day,Stormy,No
+ORD1149,Vendor C,330,Standard,Rainy,Yes
+ORD1150,Vendor A,143,Express,Foggy,No
+ORD1151,Vendor C,154,Express,Foggy,No
+ORD1152,Vendor B,39,Express,Rainy,No
+ORD1153,Vendor A,431,Express,Clear,Yes
+ORD1154,Vendor C,276,Standard,Stormy,Yes
+ORD1155,Vendor B,308,Standard,Stormy,Yes
+ORD1156,Vendor B,236,Standard,Foggy,Yes
+ORD1157,Vendor B,145,Same Day,Foggy,No
+ORD1158,Vendor A,70,Same Day,Rainy,No
+ORD1159,Vendor C,183,Standard,Clear,Yes
+ORD1160,Vendor A,406,Express,Rainy,Yes
+ORD1161,Vendor A,169,Standard,Rainy,Yes
+ORD1162,Vendor B,145,Standard,Foggy,Yes
+ORD1163,Vendor A,35,Standard,Clear,Yes
+ORD1164,Vendor B,76,Standard,Foggy,Yes
+ORD1165,Vendor B,251,Express,Stormy,No
+ORD1166,Vendor C,137,Standard,Clear,No
+ORD1167,Vendor B,396,Standard,Rainy,Yes
+ORD1168,Vendor C,382,Express,Stormy,No
+ORD1169,Vendor A,69,Express,Foggy,No
+ORD1170,Vendor B,256,Express,Rainy,Yes
+ORD1171,Vendor C,69,Standard,Foggy,Yes
+ORD1172,Vendor C,282,Express,Clear,No
+ORD1173,Vendor A,178,Same Day,Foggy,No
+ORD1174,Vendor A,453,Standard,Foggy,Yes
+ORD1175,Vendor B,247,Same Day,Foggy,Yes
+ORD1176,Vendor A,263,Same Day,Stormy,Yes
+ORD1177,Vendor B,403,Standard,Stormy,No
+ORD1178,Vendor A,72,Express,Foggy,No
+ORD1179,Vendor B,246,Express,Rainy,Yes
+ORD1180,Vendor B,45,Same Day,Stormy,No
+ORD1181,Vendor A,470,Standard,Foggy,Yes
+ORD1182,Vendor A,331,Standard,Stormy,Yes
+ORD1183,Vendor A,276,Express,Stormy,No
+ORD1184,Vendor C,247,Express,Rainy,No
+ORD1185,Vendor C,435,Standard,Clear,No
+ORD1186,Vendor A,373,Same Day,Rainy,Yes
+ORD1187,Vendor C,258,Same Day,Stormy,Yes
+ORD1188,Vendor B,180,Standard,Clear,No
+ORD1189,Vendor B,61,Same Day,Foggy,Yes
+ORD1190,Vendor A,317,Standard,Rainy,No
+ORD1191,Vendor A,176,Same Day,Rainy,No
+ORD1192,Vendor C,197,Standard,Clear,No
+ORD1193,Vendor C,47,Standard,Clear,Yes
+ORD1194,Vendor C,99,Same Day,Stormy,No
+ORD1195,Vendor C,440,Express,Clear,No
+ORD1196,Vendor C,399,Express,Foggy,No
+ORD1197,Vendor B,340,Standard,Stormy,Yes
+ORD1198,Vendor B,401,Express,Stormy,No
+ORD1199,Vendor C,97,Express,Clear,No
+ORD1200,Vendor C,241,Express,Foggy,Yes
+ORD1201,Vendor B,181,Standard,Stormy,Yes
+ORD1202,Vendor C,389,Express,Foggy,No
+ORD1203,Vendor C,323,Standard,Stormy,Yes
+ORD1204,Vendor A,431,Same Day,Clear,No
+ORD1205,Vendor C,90,Express,Foggy,No
+ORD1206,Vendor C,174,Express,Foggy,Yes
+ORD1207,Vendor A,371,Express,Clear,Yes
+ORD1208,Vendor C,93,Standard,Foggy,Yes
+ORD1209,Vendor B,446,Express,Rainy,No
+ORD1210,Vendor C,249,Same Day,Foggy,No
+ORD1211,Vendor C,377,Standard,Foggy,Yes
+ORD1212,Vendor C,156,Same Day,Clear,No
+ORD1213,Vendor A,278,Standard,Clear,No
+ORD1214,Vendor B,387,Standard,Stormy,No
+ORD1215,Vendor A,406,Standard,Foggy,Yes
+ORD1216,Vendor A,12,Standard,Clear,No
+ORD1217,Vendor B,494,Same Day,Stormy,Yes
+ORD1218,Vendor C,264,Same Day,Stormy,No
+ORD1219,Vendor C,486,Standard,Foggy,Yes
+ORD1220,Vendor A,97,Same Day,Stormy,Yes
+ORD1221,Vendor C,187,Same Day,Clear,No
+ORD1222,Vendor C,301,Same Day,Foggy,Yes
+ORD1223,Vendor A,162,Same Day,Foggy,Yes
+ORD1224,Vendor A,128,Same Day,Stormy,No
+ORD1225,Vendor A,122,Same Day,Foggy,No
+ORD1226,Vendor C,13,Same Day,Rainy,No
+ORD1227,Vendor A,231,Standard,Stormy,Yes
+ORD1228,Vendor C,267,Standard,Clear,No
+ORD1229,Vendor A,33,Same Day,Foggy,No
+ORD1230,Vendor A,190,Standard,Rainy,No
+ORD1231,Vendor A,45,Express,Foggy,Yes
+ORD1232,Vendor B,310,Standard,Stormy,No
+ORD1233,Vendor B,346,Standard,Rainy,Yes
+ORD1234,Vendor A,69,Same Day,Stormy,No
+ORD1235,Vendor B,251,Standard,Rainy,No
+ORD1236,Vendor C,283,Express,Clear,No
+ORD1237,Vendor B,232,Standard,Foggy,Yes
+ORD1238,Vendor C,491,Standard,Stormy,Yes
+ORD1239,Vendor C,211,Same Day,Rainy,No
+ORD1240,Vendor A,413,Standard,Foggy,No
+ORD1241,Vendor C,407,Standard,Rainy,Yes
+ORD1242,Vendor B,289,Express,Stormy,No
+ORD1243,Vendor B,196,Standard,Rainy,Yes
+ORD1244,Vendor A,186,Express,Foggy,No
+ORD1245,Vendor B,287,Standard,Clear,No
+ORD1246,Vendor C,224,Express,Stormy,Yes
+ORD1247,Vendor B,193,Express,Foggy,Yes
+ORD1248,Vendor C,322,Same Day,Stormy,No
+ORD1249,Vendor A,250,Standard,Foggy,Yes
+ORD1250,Vendor A,486,Express,Clear,No
+ORD1251,Vendor A,461,Express,Stormy,Yes
+ORD1252,Vendor A,453,Express,Foggy,No
+ORD1253,Vendor B,231,Same Day,Rainy,No
+ORD1254,Vendor C,289,Standard,Clear,Yes
+ORD1255,Vendor A,12,Same Day,Rainy,No
+ORD1256,Vendor C,92,Express,Stormy,No
+ORD1257,Vendor A,452,Standard,Rainy,Yes
+ORD1258,Vendor A,43,Express,Stormy,No
+ORD1259,Vendor C,454,Express,Foggy,Yes
+ORD1260,Vendor B,352,Standard,Rainy,Yes
+ORD1261,Vendor C,305,Same Day,Foggy,No
+ORD1262,Vendor A,87,Standard,Rainy,Yes
+ORD1263,Vendor B,400,Standard,Stormy,No
+ORD1264,Vendor B,51,Standard,Foggy,No
+ORD1265,Vendor B,320,Express,Clear,No
+ORD1266,Vendor B,215,Standard,Rainy,Yes
+ORD1267,Vendor C,418,Same Day,Clear,No
+ORD1268,Vendor B,92,Express,Foggy,No
+ORD1269,Vendor B,273,Same Day,Foggy,No
+ORD1270,Vendor B,243,Express,Stormy,Yes
+ORD1271,Vendor B,257,Standard,Foggy,No
+ORD1272,Vendor A,101,Express,Rainy,Yes
+ORD1273,Vendor C,363,Express,Foggy,No
+ORD1274,Vendor C,80,Standard,Clear,No
+ORD1275,Vendor A,477,Standard,Foggy,Yes
+ORD1276,Vendor A,352,Express,Stormy,Yes
+ORD1277,Vendor A,467,Standard,Clear,Yes
+ORD1278,Vendor A,73,Standard,Foggy,Yes
+ORD1279,Vendor C,97,Express,Rainy,Yes
+ORD1280,Vendor B,181,Standard,Stormy,No
+ORD1281,Vendor C,130,Same Day,Clear,No
+ORD1282,Vendor C,135,Same Day,Rainy,No
+ORD1283,Vendor A,383,Express,Clear,Yes
+ORD1284,Vendor B,35,Standard,Rainy,No
+ORD1285,Vendor A,89,Standard,Rainy,No
+ORD1286,Vendor B,192,Standard,Rainy,No
+ORD1287,Vendor A,75,Same Day,Rainy,Yes
+ORD1288,Vendor A,18,Express,Clear,No
+ORD1289,Vendor C,59,Same Day,Foggy,No
+ORD1290,Vendor C,491,Standard,Stormy,No
+ORD1291,Vendor A,253,Same Day,Stormy,No
+ORD1292,Vendor B,23,Express,Clear,No
+ORD1293,Vendor B,266,Same Day,Stormy,No
+ORD1294,Vendor A,238,Standard,Clear,No
+ORD1295,Vendor C,299,Express,Stormy,Yes
+ORD1296,Vendor A,240,Express,Stormy,Yes
+ORD1297,Vendor C,428,Express,Foggy,Yes
+ORD1298,Vendor B,78,Same Day,Rainy,Yes
+ORD1299,Vendor B,415,Standard,Rainy,Yes
+ORD1300,Vendor A,301,Standard,Stormy,No
+ORD1301,Vendor A,179,Same Day,Stormy,Yes
+ORD1302,Vendor C,244,Standard,Rainy,No
+ORD1303,Vendor C,149,Standard,Clear,No
+ORD1304,Vendor A,471,Same Day,Rainy,Yes
+ORD1305,Vendor A,492,Standard,Stormy,No
+ORD1306,Vendor C,136,Same Day,Stormy,No
+ORD1307,Vendor C,231,Same Day,Stormy,No
+ORD1308,Vendor C,68,Standard,Foggy,Yes
+ORD1309,Vendor C,270,Express,Foggy,Yes
+ORD1310,Vendor B,58,Standard,Foggy,Yes
+ORD1311,Vendor B,356,Standard,Stormy,No
+ORD1312,Vendor B,413,Standard,Clear,Yes
+ORD1313,Vendor B,227,Same Day,Clear,No
+ORD1314,Vendor B,476,Same Day,Foggy,Yes
+ORD1315,Vendor A,339,Standard,Rainy,Yes
+ORD1316,Vendor C,336,Express,Rainy,Yes
+ORD1317,Vendor A,189,Standard,Stormy,Yes
+ORD1318,Vendor C,67,Standard,Clear,No
+ORD1319,Vendor A,44,Same Day,Rainy,No
+ORD1320,Vendor B,214,Express,Rainy,Yes
+ORD1321,Vendor C,490,Standard,Stormy,No
+ORD1322,Vendor B,425,Same Day,Foggy,No
+ORD1323,Vendor B,62,Standard,Foggy,Yes
+ORD1324,Vendor C,124,Standard,Foggy,No
+ORD1325,Vendor C,283,Same Day,Stormy,No
+ORD1326,Vendor B,382,Standard,Stormy,No
+ORD1327,Vendor A,218,Same Day,Rainy,No
+ORD1328,Vendor C,201,Same Day,Clear,No
+ORD1329,Vendor A,243,Express,Rainy,No
+ORD1330,Vendor C,75,Same Day,Foggy,No
+ORD1331,Vendor B,84,Same Day,Stormy,No
+ORD1332,Vendor A,224,Same Day,Foggy,No
+ORD1333,Vendor B,285,Standard,Foggy,Yes
+ORD1334,Vendor A,256,Express,Stormy,No
+ORD1335,Vendor A,68,Standard,Stormy,No
+ORD1336,Vendor C,72,Standard,Clear,No
+ORD1337,Vendor C,130,Express,Foggy,No
+ORD1338,Vendor C,67,Standard,Clear,No
+ORD1339,Vendor C,170,Same Day,Stormy,No
+ORD1340,Vendor B,110,Standard,Rainy,No
+ORD1341,Vendor A,168,Standard,Clear,No
+ORD1342,Vendor C,410,Same Day,Stormy,No
+ORD1343,Vendor A,144,Express,Clear,No
+ORD1344,Vendor B,149,Same Day,Clear,No
+ORD1345,Vendor A,26,Same Day,Clear,No
+ORD1346,Vendor A,322,Express,Foggy,Yes
+ORD1347,Vendor A,385,Standard,Foggy,Yes
+ORD1348,Vendor B,341,Same Day,Rainy,No
+ORD1349,Vendor B,54,Standard,Foggy,No
+ORD1350,Vendor B,492,Express,Rainy,Yes
+ORD1351,Vendor B,277,Standard,Rainy,No
+ORD1352,Vendor A,38,Same Day,Clear,No
+ORD1353,Vendor B,457,Same Day,Clear,No
+ORD1354,Vendor A,120,Express,Rainy,No
+ORD1355,Vendor A,386,Same Day,Stormy,Yes
+ORD1356,Vendor C,218,Express,Foggy,No
+ORD1357,Vendor A,256,Express,Foggy,No
+ORD1358,Vendor C,392,Standard,Stormy,Yes
+ORD1359,Vendor B,213,Express,Clear,No
+ORD1360,Vendor A,111,Same Day,Foggy,Yes
+ORD1361,Vendor B,295,Same Day,Rainy,No
+ORD1362,Vendor C,165,Same Day,Rainy,Yes
+ORD1363,Vendor B,87,Standard,Foggy,No
+ORD1364,Vendor B,270,Same Day,Stormy,No
+ORD1365,Vendor C,375,Same Day,Clear,No
+ORD1366,Vendor A,191,Same Day,Foggy,No
+ORD1367,Vendor B,496,Standard,Stormy,Yes
+ORD1368,Vendor B,142,Express,Rainy,No
+ORD1369,Vendor A,286,Express,Foggy,No
+ORD1370,Vendor A,185,Express,Clear,No
+ORD1371,Vendor A,193,Same Day,Foggy,Yes
+ORD1372,Vendor A,49,Same Day,Stormy,Yes
+ORD1373,Vendor C,11,Express,Clear,No
+ORD1374,Vendor C,20,Same Day,Stormy,No
+ORD1375,Vendor B,362,Same Day,Stormy,Yes
+ORD1376,Vendor A,273,Same Day,Rainy,No
+ORD1377,Vendor B,488,Express,Clear,No
+ORD1378,Vendor B,157,Standard,Stormy,No
+ORD1379,Vendor A,52,Express,Stormy,No
+ORD1380,Vendor A,334,Same Day,Foggy,Yes
+ORD1381,Vendor A,412,Express,Stormy,Yes
+ORD1382,Vendor B,77,Same Day,Stormy,Yes
+ORD1383,Vendor B,275,Standard,Foggy,No
+ORD1384,Vendor A,142,Express,Rainy,No
+ORD1385,Vendor C,448,Standard,Clear,No
+ORD1386,Vendor B,462,Standard,Foggy,Yes
+ORD1387,Vendor A,301,Standard,Stormy,Yes
+ORD1388,Vendor A,289,Same Day,Stormy,No
+ORD1389,Vendor C,183,Standard,Stormy,Yes
+ORD1390,Vendor B,143,Standard,Stormy,No
+ORD1391,Vendor C,491,Standard,Foggy,Yes
+ORD1392,Vendor B,203,Same Day,Foggy,No
+ORD1393,Vendor C,418,Same Day,Rainy,Yes
+ORD1394,Vendor C,72,Express,Clear,No
+ORD1395,Vendor C,463,Standard,Clear,Yes
+ORD1396,Vendor A,353,Same Day,Rainy,Yes
+ORD1397,Vendor B,337,Standard,Clear,No
+ORD1398,Vendor C,442,Standard,Clear,Yes
+ORD1399,Vendor A,211,Standard,Rainy,No
+ORD1400,Vendor A,423,Express,Foggy,No
+ORD1401,Vendor A,140,Express,Foggy,Yes
+ORD1402,Vendor B,66,Express,Rainy,Yes
+ORD1403,Vendor C,376,Same Day,Stormy,No
+ORD1404,Vendor B,214,Express,Clear,No
+ORD1405,Vendor C,405,Same Day,Clear,Yes
+ORD1406,Vendor C,424,Express,Foggy,No
+ORD1407,Vendor B,144,Express,Clear,No
+ORD1408,Vendor A,196,Standard,Stormy,No
+ORD1409,Vendor B,479,Same Day,Clear,No
+ORD1410,Vendor B,352,Same Day,Rainy,Yes
+ORD1411,Vendor C,207,Same Day,Rainy,Yes
+ORD1412,Vendor A,155,Same Day,Clear,No
+ORD1413,Vendor C,336,Express,Rainy,No
+ORD1414,Vendor C,274,Same Day,Stormy,Yes
+ORD1415,Vendor B,68,Express,Clear,No
+ORD1416,Vendor A,409,Standard,Foggy,Yes
+ORD1417,Vendor C,157,Standard,Clear,No
+ORD1418,Vendor C,268,Same Day,Stormy,Yes
+ORD1419,Vendor A,419,Same Day,Foggy,No
+ORD1420,Vendor C,383,Express,Foggy,Yes
+ORD1421,Vendor C,449,Same Day,Foggy,Yes
+ORD1422,Vendor C,313,Standard,Rainy,No
+ORD1423,Vendor C,462,Express,Stormy,No
+ORD1424,Vendor B,153,Same Day,Stormy,No
+ORD1425,Vendor C,148,Same Day,Rainy,No
+ORD1426,Vendor C,440,Standard,Rainy,Yes
+ORD1427,Vendor C,295,Standard,Stormy,No
+ORD1428,Vendor A,269,Standard,Foggy,Yes
+ORD1429,Vendor C,119,Express,Stormy,No
+ORD1430,Vendor C,367,Express,Foggy,Yes
+ORD1431,Vendor B,407,Same Day,Rainy,No
+ORD1432,Vendor C,399,Express,Rainy,No
+ORD1433,Vendor A,428,Same Day,Clear,Yes
+ORD1434,Vendor C,277,Same Day,Rainy,Yes
+ORD1435,Vendor B,345,Express,Clear,No
+ORD1436,Vendor B,203,Same Day,Foggy,No
+ORD1437,Vendor A,329,Standard,Clear,No
+ORD1438,Vendor B,416,Same Day,Rainy,Yes
+ORD1439,Vendor B,155,Express,Foggy,No
+ORD1440,Vendor C,19,Express,Clear,No
+ORD1441,Vendor B,401,Same Day,Stormy,No
+ORD1442,Vendor A,95,Same Day,Foggy,No
+ORD1443,Vendor C,53,Standard,Stormy,Yes
+ORD1444,Vendor B,495,Express,Stormy,Yes
+ORD1445,Vendor C,66,Express,Foggy,No
+ORD1446,Vendor B,259,Same Day,Foggy,No
+ORD1447,Vendor C,492,Same Day,Stormy,Yes
+ORD1448,Vendor A,280,Express,Clear,No
+ORD1449,Vendor B,14,Same Day,Foggy,No
+ORD1450,Vendor C,218,Express,Stormy,No
+ORD1451,Vendor A,256,Standard,Clear,Yes
+ORD1452,Vendor C,69,Express,Rainy,Yes
+ORD1453,Vendor C,250,Express,Stormy,Yes
+ORD1454,Vendor C,344,Same Day,Rainy,No
+ORD1455,Vendor B,355,Standard,Stormy,Yes
+ORD1456,Vendor C,320,Express,Rainy,No
+ORD1457,Vendor C,354,Express,Foggy,Yes
+ORD1458,Vendor C,131,Same Day,Rainy,Yes
+ORD1459,Vendor C,210,Standard,Stormy,Yes
+ORD1460,Vendor A,433,Standard,Stormy,No
+ORD1461,Vendor C,374,Express,Foggy,No
+ORD1462,Vendor A,293,Standard,Stormy,No
+ORD1463,Vendor A,416,Same Day,Stormy,Yes
+ORD1464,Vendor C,226,Same Day,Rainy,No
+ORD1465,Vendor B,169,Express,Stormy,Yes
+ORD1466,Vendor B,395,Express,Rainy,Yes
+ORD1467,Vendor B,329,Same Day,Clear,No
+ORD1468,Vendor A,177,Standard,Clear,No
+ORD1469,Vendor A,287,Express,Rainy,No
+ORD1470,Vendor C,413,Standard,Clear,No
+ORD1471,Vendor B,327,Same Day,Foggy,No
+ORD1472,Vendor A,435,Standard,Stormy,Yes
+ORD1473,Vendor B,14,Same Day,Rainy,Yes
+ORD1474,Vendor A,326,Same Day,Clear,No
+ORD1475,Vendor A,232,Standard,Stormy,Yes
+ORD1476,Vendor B,90,Same Day,Stormy,No
+ORD1477,Vendor C,440,Express,Stormy,No
+ORD1478,Vendor C,415,Standard,Clear,Yes
+ORD1479,Vendor C,324,Standard,Foggy,Yes
+ORD1480,Vendor C,277,Standard,Stormy,No
+ORD1481,Vendor C,86,Express,Foggy,Yes
+ORD1482,Vendor C,426,Express,Foggy,Yes
+ORD1483,Vendor C,348,Same Day,Clear,Yes
+ORD1484,Vendor A,87,Express,Foggy,Yes
+ORD1485,Vendor B,364,Same Day,Foggy,Yes
+ORD1486,Vendor A,500,Express,Clear,No
+ORD1487,Vendor A,381,Same Day,Stormy,No
+ORD1488,Vendor B,497,Same Day,Clear,No
+ORD1489,Vendor B,80,Express,Rainy,No
+ORD1490,Vendor B,310,Same Day,Clear,No
+ORD1491,Vendor B,123,Same Day,Foggy,No
+ORD1492,Vendor C,127,Standard,Stormy,Yes
+ORD1493,Vendor B,223,Express,Stormy,No
+ORD1494,Vendor C,286,Express,Stormy,Yes
+ORD1495,Vendor B,398,Same Day,Rainy,Yes
+ORD1496,Vendor C,364,Standard,Stormy,Yes
+ORD1497,Vendor C,149,Same Day,Foggy,Yes
+ORD1498,Vendor C,245,Same Day,Foggy,Yes
+ORD1499,Vendor B,348,Express,Clear,Yes
+ORD1500,Vendor A,106,Standard,Stormy,Yes
+ORD1501,Vendor A,339,Standard,Rainy,Yes
+ORD1502,Vendor B,94,Same Day,Foggy,No
+ORD1503,Vendor C,459,Standard,Rainy,No
+ORD1504,Vendor C,395,Same Day,Stormy,Yes
+ORD1505,Vendor A,38,Standard,Rainy,No
+ORD1506,Vendor B,371,Standard,Foggy,Yes
+ORD1507,Vendor C,315,Standard,Stormy,No
+ORD1508,Vendor B,119,Express,Stormy,No
+ORD1509,Vendor A,336,Same Day,Rainy,No
+ORD1510,Vendor C,472,Same Day,Rainy,Yes
+ORD1511,Vendor B,417,Express,Stormy,Yes
+ORD1512,Vendor C,372,Same Day,Rainy,Yes
+ORD1513,Vendor A,260,Standard,Rainy,Yes
+ORD1514,Vendor A,407,Same Day,Stormy,No
+ORD1515,Vendor C,67,Same Day,Stormy,No
+ORD1516,Vendor B,500,Express,Rainy,No
+ORD1517,Vendor A,232,Express,Rainy,Yes
+ORD1518,Vendor A,105,Same Day,Rainy,No
+ORD1519,Vendor C,231,Same Day,Rainy,No
+ORD1520,Vendor A,426,Same Day,Rainy,No
+ORD1521,Vendor B,254,Same Day,Rainy,Yes
+ORD1522,Vendor A,371,Same Day,Stormy,Yes
+ORD1523,Vendor B,104,Standard,Stormy,Yes
+ORD1524,Vendor A,212,Standard,Rainy,No
+ORD1525,Vendor C,225,Standard,Clear,Yes
+ORD1526,Vendor B,451,Standard,Foggy,Yes
+ORD1527,Vendor B,386,Express,Stormy,Yes
+ORD1528,Vendor C,302,Same Day,Clear,No
+ORD1529,Vendor A,374,Standard,Stormy,Yes
+ORD1530,Vendor B,290,Same Day,Stormy,No
+ORD1531,Vendor C,465,Express,Stormy,No
+ORD1532,Vendor A,418,Standard,Clear,No
+ORD1533,Vendor B,263,Same Day,Rainy,Yes
+ORD1534,Vendor A,351,Express,Clear,No
+ORD1535,Vendor B,421,Standard,Stormy,No
+ORD1536,Vendor A,315,Express,Stormy,Yes
+ORD1537,Vendor C,478,Standard,Foggy,No
+ORD1538,Vendor B,324,Same Day,Rainy,No
+ORD1539,Vendor B,148,Standard,Stormy,No
+ORD1540,Vendor C,42,Same Day,Rainy,Yes
+ORD1541,Vendor B,436,Standard,Rainy,No
+ORD1542,Vendor B,118,Standard,Rainy,Yes
+ORD1543,Vendor C,370,Standard,Foggy,Yes
+ORD1544,Vendor C,268,Same Day,Clear,Yes
+ORD1545,Vendor A,60,Standard,Foggy,No
+ORD1546,Vendor A,479,Express,Rainy,No
+ORD1547,Vendor C,13,Same Day,Rainy,No
+ORD1548,Vendor C,19,Standard,Clear,No
+ORD1549,Vendor A,354,Same Day,Foggy,No
+ORD1550,Vendor B,80,Express,Rainy,No
+ORD1551,Vendor B,393,Same Day,Stormy,Yes
+ORD1552,Vendor C,499,Express,Foggy,No
+ORD1553,Vendor A,180,Same Day,Rainy,No
+ORD1554,Vendor A,320,Same Day,Foggy,No
+ORD1555,Vendor A,38,Standard,Clear,No
+ORD1556,Vendor A,444,Express,Rainy,No
+ORD1557,Vendor A,462,Standard,Clear,No
+ORD1558,Vendor A,283,Express,Stormy,No
+ORD1559,Vendor C,414,Express,Foggy,Yes
+ORD1560,Vendor A,280,Same Day,Foggy,No
+ORD1561,Vendor C,401,Express,Clear,No
+ORD1562,Vendor A,456,Express,Clear,Yes
+ORD1563,Vendor A,210,Standard,Clear,No
+ORD1564,Vendor C,308,Standard,Rainy,Yes
+ORD1565,Vendor C,208,Standard,Foggy,Yes
+ORD1566,Vendor A,342,Standard,Foggy,No
+ORD1567,Vendor C,356,Standard,Rainy,Yes
+ORD1568,Vendor A,334,Same Day,Stormy,Yes
+ORD1569,Vendor C,463,Same Day,Clear,No
+ORD1570,Vendor B,198,Same Day,Clear,No
+ORD1571,Vendor B,432,Express,Clear,Yes
+ORD1572,Vendor C,455,Same Day,Rainy,No
+ORD1573,Vendor A,164,Express,Clear,No
+ORD1574,Vendor A,144,Same Day,Stormy,Yes
+ORD1575,Vendor B,395,Same Day,Foggy,No
+ORD1576,Vendor C,440,Same Day,Rainy,No
+ORD1577,Vendor C,102,Same Day,Foggy,No
+ORD1578,Vendor A,205,Express,Rainy,Yes
+ORD1579,Vendor A,230,Standard,Stormy,No
+ORD1580,Vendor C,306,Same Day,Rainy,No
+ORD1581,Vendor B,7,Standard,Clear,No
+ORD1582,Vendor C,376,Express,Foggy,No
+ORD1583,Vendor B,433,Same Day,Stormy,Yes
+ORD1584,Vendor B,457,Standard,Clear,Yes
+ORD1585,Vendor C,50,Same Day,Stormy,No
+ORD1586,Vendor A,132,Standard,Stormy,Yes
+ORD1587,Vendor B,43,Express,Clear,No
+ORD1588,Vendor C,333,Standard,Foggy,Yes
+ORD1589,Vendor B,224,Same Day,Stormy,No
+ORD1590,Vendor C,253,Express,Stormy,No
+ORD1591,Vendor A,320,Standard,Clear,Yes
+ORD1592,Vendor B,446,Standard,Rainy,Yes
+ORD1593,Vendor A,435,Same Day,Clear,No
+ORD1594,Vendor C,100,Standard,Clear,Yes
+ORD1595,Vendor C,405,Express,Foggy,Yes
+ORD1596,Vendor C,357,Standard,Clear,Yes
+ORD1597,Vendor C,241,Same Day,Stormy,Yes
+ORD1598,Vendor C,415,Standard,Foggy,Yes
+ORD1599,Vendor C,295,Standard,Foggy,Yes
+ORD1600,Vendor C,156,Standard,Rainy,No
+ORD1601,Vendor B,317,Standard,Foggy,No
+ORD1602,Vendor C,13,Standard,Stormy,No
+ORD1603,Vendor A,91,Standard,Clear,No
+ORD1604,Vendor B,343,Express,Clear,No
+ORD1605,Vendor C,47,Standard,Clear,No
+ORD1606,Vendor B,176,Express,Foggy,No
+ORD1607,Vendor B,42,Express,Clear,Yes
+ORD1608,Vendor A,292,Express,Foggy,No
+ORD1609,Vendor C,124,Standard,Rainy,Yes
+ORD1610,Vendor B,151,Same Day,Clear,No
+ORD1611,Vendor C,83,Same Day,Clear,No
+ORD1612,Vendor C,355,Same Day,Clear,Yes
+ORD1613,Vendor A,178,Standard,Stormy,Yes
+ORD1614,Vendor C,420,Same Day,Rainy,No
+ORD1615,Vendor C,43,Same Day,Foggy,No
+ORD1616,Vendor C,173,Standard,Rainy,No
+ORD1617,Vendor C,437,Same Day,Clear,No
+ORD1618,Vendor C,332,Express,Rainy,Yes
+ORD1619,Vendor C,364,Standard,Stormy,No
+ORD1620,Vendor A,341,Same Day,Rainy,Yes
+ORD1621,Vendor A,378,Standard,Rainy,Yes
+ORD1622,Vendor C,298,Standard,Stormy,No
+ORD1623,Vendor C,236,Express,Stormy,Yes
+ORD1624,Vendor A,60,Standard,Clear,No
+ORD1625,Vendor C,245,Standard,Stormy,Yes
+ORD1626,Vendor A,73,Standard,Foggy,Yes
+ORD1627,Vendor A,98,Same Day,Foggy,Yes
+ORD1628,Vendor B,87,Same Day,Rainy,No
+ORD1629,Vendor C,81,Express,Rainy,Yes
+ORD1630,Vendor C,113,Same Day,Clear,No
+ORD1631,Vendor B,493,Standard,Foggy,Yes
+ORD1632,Vendor A,57,Express,Rainy,No
+ORD1633,Vendor C,468,Same Day,Stormy,Yes
+ORD1634,Vendor C,127,Express,Foggy,Yes
+ORD1635,Vendor A,385,Standard,Rainy,No
+ORD1636,Vendor A,279,Same Day,Stormy,Yes
+ORD1637,Vendor A,17,Express,Rainy,No
+ORD1638,Vendor B,406,Standard,Stormy,Yes
+ORD1639,Vendor A,6,Same Day,Stormy,No
+ORD1640,Vendor C,336,Express,Stormy,Yes
+ORD1641,Vendor C,132,Express,Clear,No
+ORD1642,Vendor A,52,Standard,Rainy,Yes
+ORD1643,Vendor C,211,Express,Rainy,No
+ORD1644,Vendor C,118,Express,Clear,No
+ORD1645,Vendor A,11,Express,Stormy,Yes
+ORD1646,Vendor A,318,Express,Foggy,Yes
+ORD1647,Vendor C,146,Standard,Clear,Yes
+ORD1648,Vendor B,255,Express,Clear,No
+ORD1649,Vendor A,114,Express,Rainy,No
+ORD1650,Vendor A,482,Express,Rainy,Yes
+ORD1651,Vendor A,417,Express,Stormy,No
+ORD1652,Vendor C,169,Standard,Foggy,Yes
+ORD1653,Vendor B,412,Express,Rainy,Yes
+ORD1654,Vendor A,321,Same Day,Stormy,Yes
+ORD1655,Vendor A,323,Same Day,Rainy,No
+ORD1656,Vendor C,407,Same Day,Rainy,No
+ORD1657,Vendor A,304,Same Day,Stormy,Yes
+ORD1658,Vendor A,312,Same Day,Clear,No
+ORD1659,Vendor A,462,Standard,Stormy,Yes
+ORD1660,Vendor C,214,Standard,Stormy,No
+ORD1661,Vendor C,110,Same Day,Stormy,No
+ORD1662,Vendor C,133,Same Day,Stormy,No
+ORD1663,Vendor B,448,Same Day,Clear,Yes
+ORD1664,Vendor B,137,Express,Rainy,No
+ORD1665,Vendor B,107,Express,Foggy,No
+ORD1666,Vendor A,488,Same Day,Foggy,Yes
+ORD1667,Vendor B,368,Express,Stormy,No
+ORD1668,Vendor B,450,Express,Stormy,Yes
+ORD1669,Vendor A,357,Standard,Rainy,No
+ORD1670,Vendor C,41,Express,Foggy,No
+ORD1671,Vendor A,442,Same Day,Stormy,Yes
+ORD1672,Vendor B,409,Same Day,Clear,Yes
+ORD1673,Vendor C,12,Standard,Foggy,Yes
+ORD1674,Vendor A,222,Standard,Stormy,No
+ORD1675,Vendor A,140,Express,Foggy,No
+ORD1676,Vendor B,244,Standard,Foggy,Yes
+ORD1677,Vendor C,355,Same Day,Rainy,Yes
+ORD1678,Vendor B,494,Same Day,Foggy,No
+ORD1679,Vendor B,499,Same Day,Rainy,Yes
+ORD1680,Vendor B,155,Express,Stormy,Yes
+ORD1681,Vendor C,81,Express,Clear,Yes
+ORD1682,Vendor C,266,Standard,Clear,Yes
+ORD1683,Vendor B,11,Same Day,Stormy,Yes
+ORD1684,Vendor A,172,Express,Stormy,Yes
+ORD1685,Vendor C,181,Same Day,Stormy,No
+ORD1686,Vendor C,379,Standard,Stormy,Yes
+ORD1687,Vendor C,39,Express,Stormy,No
+ORD1688,Vendor C,279,Express,Foggy,No
+ORD1689,Vendor A,91,Express,Clear,No
+ORD1690,Vendor B,400,Express,Clear,No
+ORD1691,Vendor B,29,Standard,Stormy,No
+ORD1692,Vendor A,358,Express,Stormy,Yes
+ORD1693,Vendor B,267,Standard,Rainy,Yes
+ORD1694,Vendor C,452,Same Day,Stormy,No
+ORD1695,Vendor B,381,Standard,Foggy,No
+ORD1696,Vendor B,210,Express,Stormy,Yes
+ORD1697,Vendor A,257,Same Day,Stormy,Yes
+ORD1698,Vendor C,398,Same Day,Stormy,Yes
+ORD1699,Vendor A,23,Standard,Stormy,No
+ORD1700,Vendor C,34,Same Day,Clear,No
+ORD1701,Vendor A,458,Standard,Rainy,Yes
+ORD1702,Vendor C,414,Same Day,Rainy,Yes
+ORD1703,Vendor B,240,Standard,Stormy,No
+ORD1704,Vendor A,309,Standard,Rainy,Yes
+ORD1705,Vendor C,109,Standard,Stormy,No
+ORD1706,Vendor C,321,Express,Stormy,Yes
+ORD1707,Vendor C,33,Express,Clear,Yes
+ORD1708,Vendor A,468,Same Day,Clear,Yes
+ORD1709,Vendor B,273,Express,Clear,No
+ORD1710,Vendor B,93,Express,Rainy,No
+ORD1711,Vendor B,451,Standard,Rainy,No
+ORD1712,Vendor B,86,Same Day,Foggy,No
+ORD1713,Vendor A,303,Same Day,Rainy,Yes
+ORD1714,Vendor B,402,Standard,Stormy,No
+ORD1715,Vendor B,474,Express,Clear,No
+ORD1716,Vendor A,10,Standard,Stormy,Yes
+ORD1717,Vendor C,70,Standard,Clear,No
+ORD1718,Vendor C,298,Express,Foggy,No
+ORD1719,Vendor A,213,Express,Stormy,Yes
+ORD1720,Vendor B,383,Same Day,Clear,Yes
+ORD1721,Vendor B,46,Express,Foggy,No
+ORD1722,Vendor C,129,Same Day,Stormy,No
+ORD1723,Vendor B,356,Standard,Rainy,No
+ORD1724,Vendor B,373,Standard,Clear,No
+ORD1725,Vendor B,485,Same Day,Stormy,No
+ORD1726,Vendor C,217,Same Day,Clear,No
+ORD1727,Vendor C,374,Same Day,Stormy,Yes
+ORD1728,Vendor C,10,Standard,Rainy,No
+ORD1729,Vendor C,485,Same Day,Foggy,Yes
+ORD1730,Vendor A,201,Express,Clear,No
+ORD1731,Vendor A,290,Express,Clear,No
+ORD1732,Vendor B,82,Standard,Rainy,No
+ORD1733,Vendor C,25,Same Day,Stormy,Yes
+ORD1734,Vendor A,200,Express,Foggy,No
+ORD1735,Vendor B,336,Same Day,Clear,No
+ORD1736,Vendor A,98,Express,Rainy,No
+ORD1737,Vendor B,172,Standard,Clear,Yes
+ORD1738,Vendor B,431,Same Day,Clear,No
+ORD1739,Vendor C,427,Standard,Stormy,Yes
+ORD1740,Vendor C,269,Same Day,Foggy,No
+ORD1741,Vendor A,340,Standard,Foggy,Yes
+ORD1742,Vendor A,58,Standard,Rainy,No
+ORD1743,Vendor A,330,Standard,Stormy,Yes
+ORD1744,Vendor A,116,Express,Rainy,No
+ORD1745,Vendor A,113,Standard,Rainy,No
+ORD1746,Vendor A,222,Express,Clear,No
+ORD1747,Vendor C,92,Same Day,Stormy,No
+ORD1748,Vendor A,455,Same Day,Clear,No
+ORD1749,Vendor C,7,Express,Clear,No
+ORD1750,Vendor C,218,Express,Clear,No
+ORD1751,Vendor A,411,Standard,Rainy,No
+ORD1752,Vendor B,62,Same Day,Clear,Yes
+ORD1753,Vendor A,457,Same Day,Rainy,No
+ORD1754,Vendor C,100,Standard,Foggy,No
+ORD1755,Vendor C,81,Same Day,Stormy,No
+ORD1756,Vendor C,215,Standard,Foggy,No
+ORD1757,Vendor B,257,Express,Clear,No
+ORD1758,Vendor A,191,Standard,Foggy,No
+ORD1759,Vendor A,460,Standard,Foggy,No
+ORD1760,Vendor C,134,Standard,Clear,No
+ORD1761,Vendor B,261,Standard,Rainy,No
+ORD1762,Vendor B,18,Standard,Rainy,No
+ORD1763,Vendor C,414,Same Day,Foggy,No
+ORD1764,Vendor C,290,Express,Foggy,No
+ORD1765,Vendor B,261,Same Day,Stormy,Yes
+ORD1766,Vendor A,237,Express,Stormy,No
+ORD1767,Vendor A,250,Standard,Rainy,No
+ORD1768,Vendor A,116,Standard,Stormy,Yes
+ORD1769,Vendor B,213,Same Day,Stormy,No
+ORD1770,Vendor A,392,Standard,Clear,No
+ORD1771,Vendor B,258,Standard,Foggy,Yes
+ORD1772,Vendor B,296,Express,Rainy,No
+ORD1773,Vendor A,499,Standard,Foggy,No
+ORD1774,Vendor C,233,Express,Foggy,Yes
+ORD1775,Vendor A,348,Express,Foggy,Yes
+ORD1776,Vendor C,414,Standard,Clear,Yes
+ORD1777,Vendor C,274,Same Day,Stormy,No
+ORD1778,Vendor C,148,Same Day,Stormy,Yes
+ORD1779,Vendor A,244,Same Day,Foggy,No
+ORD1780,Vendor B,433,Express,Foggy,Yes
+ORD1781,Vendor B,400,Express,Foggy,Yes
+ORD1782,Vendor A,220,Express,Rainy,No
+ORD1783,Vendor A,128,Standard,Clear,Yes
+ORD1784,Vendor B,19,Same Day,Rainy,No
+ORD1785,Vendor A,354,Express,Clear,No
+ORD1786,Vendor C,10,Standard,Clear,Yes
+ORD1787,Vendor C,212,Standard,Stormy,Yes
+ORD1788,Vendor B,176,Same Day,Clear,No
+ORD1789,Vendor A,322,Same Day,Stormy,No
+ORD1790,Vendor A,387,Same Day,Rainy,No
+ORD1791,Vendor C,429,Express,Clear,Yes
+ORD1792,Vendor C,161,Same Day,Stormy,Yes
+ORD1793,Vendor C,119,Same Day,Clear,Yes
+ORD1794,Vendor C,22,Standard,Stormy,No
+ORD1795,Vendor B,490,Express,Clear,No
+ORD1796,Vendor C,488,Express,Rainy,Yes
+ORD1797,Vendor A,256,Standard,Stormy,No
+ORD1798,Vendor A,418,Same Day,Foggy,No
+ORD1799,Vendor C,393,Standard,Rainy,Yes
+ORD1800,Vendor A,143,Standard,Foggy,No
+ORD1801,Vendor A,349,Express,Clear,No
+ORD1802,Vendor A,272,Same Day,Foggy,No
+ORD1803,Vendor C,356,Express,Foggy,Yes
+ORD1804,Vendor A,49,Express,Foggy,No
+ORD1805,Vendor C,294,Standard,Foggy,Yes
+ORD1806,Vendor B,142,Express,Stormy,No
+ORD1807,Vendor C,169,Standard,Rainy,No
+ORD1808,Vendor C,416,Standard,Foggy,Yes
+ORD1809,Vendor B,379,Standard,Rainy,Yes
+ORD1810,Vendor C,337,Express,Stormy,Yes
+ORD1811,Vendor A,70,Express,Stormy,No
+ORD1812,Vendor B,146,Standard,Clear,No
+ORD1813,Vendor A,120,Same Day,Rainy,No
+ORD1814,Vendor A,80,Same Day,Rainy,No
+ORD1815,Vendor C,55,Express,Rainy,Yes
+ORD1816,Vendor B,103,Express,Foggy,No
+ORD1817,Vendor C,298,Same Day,Stormy,No
+ORD1818,Vendor A,270,Standard,Foggy,No
+ORD1819,Vendor A,363,Standard,Stormy,Yes
+ORD1820,Vendor B,309,Same Day,Rainy,Yes
+ORD1821,Vendor B,249,Express,Rainy,No
+ORD1822,Vendor C,486,Standard,Stormy,Yes
+ORD1823,Vendor C,29,Express,Foggy,No
+ORD1824,Vendor A,310,Express,Stormy,No
+ORD1825,Vendor B,92,Standard,Foggy,No
+ORD1826,Vendor B,15,Standard,Stormy,Yes
+ORD1827,Vendor C,138,Express,Rainy,No
+ORD1828,Vendor C,270,Standard,Stormy,Yes
+ORD1829,Vendor C,269,Express,Foggy,Yes
+ORD1830,Vendor C,419,Standard,Clear,No
+ORD1831,Vendor B,8,Same Day,Foggy,No
+ORD1832,Vendor A,206,Standard,Rainy,Yes
+ORD1833,Vendor A,104,Same Day,Stormy,No
+ORD1834,Vendor C,80,Standard,Rainy,Yes
+ORD1835,Vendor A,388,Same Day,Rainy,Yes
+ORD1836,Vendor A,224,Standard,Foggy,No
+ORD1837,Vendor C,430,Express,Stormy,Yes
+ORD1838,Vendor C,89,Express,Clear,No
+ORD1839,Vendor B,193,Standard,Foggy,No
+ORD1840,Vendor A,406,Standard,Foggy,No
+ORD1841,Vendor A,445,Express,Foggy,Yes
+ORD1842,Vendor C,249,Express,Rainy,Yes
+ORD1843,Vendor B,173,Same Day,Clear,No
+ORD1844,Vendor C,138,Standard,Foggy,No
+ORD1845,Vendor B,189,Express,Foggy,Yes
+ORD1846,Vendor B,477,Express,Stormy,Yes
+ORD1847,Vendor A,217,Same Day,Clear,No
+ORD1848,Vendor B,242,Standard,Stormy,Yes
+ORD1849,Vendor A,66,Standard,Stormy,No
+ORD1850,Vendor C,222,Same Day,Foggy,Yes
+ORD1851,Vendor A,124,Standard,Clear,No
+ORD1852,Vendor C,207,Express,Stormy,Yes
+ORD1853,Vendor B,285,Express,Rainy,No
+ORD1854,Vendor B,398,Express,Clear,No
+ORD1855,Vendor A,92,Express,Foggy,Yes
+ORD1856,Vendor A,157,Same Day,Foggy,Yes
+ORD1857,Vendor A,154,Same Day,Rainy,No
+ORD1858,Vendor C,371,Express,Stormy,Yes
+ORD1859,Vendor B,221,Same Day,Rainy,No
+ORD1860,Vendor C,477,Standard,Stormy,Yes
+ORD1861,Vendor C,407,Same Day,Foggy,Yes
+ORD1862,Vendor B,141,Same Day,Clear,No
+ORD1863,Vendor C,357,Same Day,Foggy,Yes
+ORD1864,Vendor A,286,Express,Rainy,Yes
+ORD1865,Vendor C,393,Express,Clear,No
+ORD1866,Vendor B,242,Standard,Foggy,Yes
+ORD1867,Vendor C,443,Express,Clear,Yes
+ORD1868,Vendor B,412,Express,Foggy,Yes
+ORD1869,Vendor B,362,Same Day,Foggy,Yes
+ORD1870,Vendor A,155,Express,Rainy,Yes
+ORD1871,Vendor A,237,Same Day,Clear,No
+ORD1872,Vendor A,223,Express,Foggy,No
+ORD1873,Vendor C,170,Standard,Rainy,Yes
+ORD1874,Vendor B,175,Same Day,Foggy,No
+ORD1875,Vendor B,50,Standard,Rainy,Yes
+ORD1876,Vendor C,119,Same Day,Foggy,No
+ORD1877,Vendor C,30,Standard,Stormy,No
+ORD1878,Vendor B,424,Same Day,Rainy,No
+ORD1879,Vendor B,114,Express,Stormy,Yes
+ORD1880,Vendor B,453,Express,Rainy,Yes
+ORD1881,Vendor C,184,Same Day,Stormy,No
+ORD1882,Vendor C,115,Standard,Foggy,No
+ORD1883,Vendor B,318,Same Day,Clear,No
+ORD1884,Vendor A,148,Express,Clear,No
+ORD1885,Vendor A,114,Standard,Rainy,Yes
+ORD1886,Vendor A,123,Same Day,Clear,No
+ORD1887,Vendor B,171,Standard,Clear,No
+ORD1888,Vendor B,486,Same Day,Stormy,Yes
+ORD1889,Vendor B,69,Same Day,Clear,No
+ORD1890,Vendor B,85,Same Day,Clear,No
+ORD1891,Vendor C,149,Express,Foggy,No
+ORD1892,Vendor A,126,Same Day,Foggy,Yes
+ORD1893,Vendor B,418,Express,Clear,No
+ORD1894,Vendor A,272,Express,Clear,Yes
+ORD1895,Vendor B,241,Same Day,Foggy,No
+ORD1896,Vendor B,145,Express,Rainy,Yes
+ORD1897,Vendor C,24,Same Day,Stormy,Yes
+ORD1898,Vendor C,262,Express,Rainy,Yes
+ORD1899,Vendor A,103,Express,Clear,Yes
+ORD1900,Vendor B,405,Express,Stormy,Yes
+ORD1901,Vendor B,417,Same Day,Stormy,No
+ORD1902,Vendor C,177,Standard,Clear,No
+ORD1903,Vendor A,270,Standard,Stormy,No
+ORD1904,Vendor C,489,Same Day,Rainy,Yes
+ORD1905,Vendor A,216,Same Day,Foggy,Yes
+ORD1906,Vendor A,9,Same Day,Stormy,No
+ORD1907,Vendor C,309,Express,Clear,Yes
+ORD1908,Vendor C,388,Express,Rainy,Yes
+ORD1909,Vendor A,198,Same Day,Clear,Yes
+ORD1910,Vendor B,79,Express,Rainy,No
+ORD1911,Vendor A,7,Same Day,Stormy,Yes
+ORD1912,Vendor B,248,Same Day,Clear,Yes
+ORD1913,Vendor C,366,Standard,Stormy,Yes
+ORD1914,Vendor B,492,Express,Clear,Yes
+ORD1915,Vendor B,175,Standard,Stormy,Yes
+ORD1916,Vendor B,259,Express,Rainy,Yes
+ORD1917,Vendor C,46,Standard,Clear,Yes
+ORD1918,Vendor A,269,Same Day,Foggy,No
+ORD1919,Vendor C,352,Express,Clear,Yes
+ORD1920,Vendor A,389,Same Day,Stormy,Yes
+ORD1921,Vendor A,44,Same Day,Clear,No
+ORD1922,Vendor A,191,Standard,Rainy,Yes
+ORD1923,Vendor A,176,Express,Foggy,No
+ORD1924,Vendor A,417,Standard,Clear,No
+ORD1925,Vendor C,233,Express,Rainy,No
+ORD1926,Vendor B,491,Standard,Clear,No
+ORD1927,Vendor A,114,Express,Stormy,No
+ORD1928,Vendor A,171,Express,Foggy,No
+ORD1929,Vendor C,89,Standard,Clear,Yes
+ORD1930,Vendor A,81,Standard,Stormy,Yes
+ORD1931,Vendor A,473,Same Day,Stormy,No
+ORD1932,Vendor A,409,Standard,Stormy,Yes
+ORD1933,Vendor C,424,Express,Rainy,No
+ORD1934,Vendor B,211,Standard,Rainy,No
+ORD1935,Vendor A,87,Express,Rainy,No
+ORD1936,Vendor C,132,Express,Rainy,No
+ORD1937,Vendor B,223,Same Day,Foggy,No
+ORD1938,Vendor A,161,Standard,Clear,No
+ORD1939,Vendor B,387,Same Day,Clear,No
+ORD1940,Vendor B,470,Express,Stormy,Yes
+ORD1941,Vendor C,361,Express,Clear,No
+ORD1942,Vendor B,184,Standard,Foggy,Yes
+ORD1943,Vendor B,425,Standard,Clear,No
+ORD1944,Vendor B,390,Same Day,Foggy,No
+ORD1945,Vendor B,153,Express,Stormy,Yes
+ORD1946,Vendor B,458,Same Day,Clear,Yes
+ORD1947,Vendor C,128,Standard,Clear,No
+ORD1948,Vendor B,390,Same Day,Clear,No
+ORD1949,Vendor A,37,Standard,Clear,Yes
+ORD1950,Vendor A,88,Express,Clear,Yes
+ORD1951,Vendor A,9,Express,Rainy,No
+ORD1952,Vendor B,408,Express,Rainy,Yes
+ORD1953,Vendor B,239,Express,Foggy,No
+ORD1954,Vendor B,418,Express,Rainy,Yes
+ORD1955,Vendor A,351,Express,Rainy,No
+ORD1956,Vendor A,384,Same Day,Foggy,No
+ORD1957,Vendor B,384,Express,Stormy,No
+ORD1958,Vendor A,149,Same Day,Foggy,No
+ORD1959,Vendor B,309,Standard,Clear,Yes
+ORD1960,Vendor C,35,Standard,Foggy,No
+ORD1961,Vendor C,344,Same Day,Rainy,No
+ORD1962,Vendor A,102,Express,Stormy,Yes
+ORD1963,Vendor B,451,Same Day,Clear,No
+ORD1964,Vendor C,237,Same Day,Stormy,Yes
+ORD1965,Vendor A,88,Standard,Stormy,No
+ORD1966,Vendor A,332,Standard,Stormy,Yes
+ORD1967,Vendor C,437,Standard,Clear,Yes
+ORD1968,Vendor B,285,Same Day,Foggy,No
+ORD1969,Vendor B,225,Same Day,Foggy,Yes
+ORD1970,Vendor C,191,Same Day,Stormy,Yes
+ORD1971,Vendor A,11,Standard,Rainy,Yes
+ORD1972,Vendor A,152,Standard,Rainy,Yes
+ORD1973,Vendor C,166,Standard,Rainy,Yes
+ORD1974,Vendor B,216,Same Day,Clear,No
+ORD1975,Vendor A,22,Express,Rainy,No
+ORD1976,Vendor C,345,Same Day,Rainy,Yes
+ORD1977,Vendor B,51,Standard,Foggy,Yes
+ORD1978,Vendor B,265,Standard,Stormy,No
+ORD1979,Vendor B,83,Same Day,Rainy,No
+ORD1980,Vendor A,390,Standard,Clear,Yes
+ORD1981,Vendor A,248,Standard,Stormy,No
+ORD1982,Vendor A,414,Standard,Foggy,No
+ORD1983,Vendor C,333,Same Day,Rainy,No
+ORD1984,Vendor C,422,Express,Foggy,Yes
+ORD1985,Vendor B,138,Standard,Clear,No
+ORD1986,Vendor B,154,Standard,Rainy,Yes
+ORD1987,Vendor B,475,Same Day,Foggy,Yes
+ORD1988,Vendor A,60,Standard,Clear,No
+ORD1989,Vendor A,428,Standard,Foggy,Yes
+ORD1990,Vendor B,367,Express,Clear,Yes
+ORD1991,Vendor A,151,Express,Rainy,No
+ORD1992,Vendor C,28,Express,Clear,No
+ORD1993,Vendor B,260,Express,Foggy,No
+ORD1994,Vendor C,51,Standard,Clear,No
+ORD1995,Vendor B,276,Standard,Stormy,No
+ORD1996,Vendor A,247,Same Day,Clear,No
+ORD1997,Vendor A,179,Same Day,Foggy,No
+ORD1998,Vendor A,307,Standard,Foggy,Yes
+ORD1999,Vendor A,358,Same Day,Stormy,No
